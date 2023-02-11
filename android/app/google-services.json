@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64254931562",
+    "project_id": "blogkec-29057",
+    "storage_bucket": "blogkec-29057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64254931562:android:7720ee35554ee76df69013",
+        "android_client_info": {
+          "package_name": "com.vigneshkisrsapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64254931562-gk6k3ahiqbb5sgdd66bvs204r03fs5at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rSS-wR4SSHHBNbzyf43heo-pIyEpHzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64254931562-gk6k3ahiqbb5sgdd66bvs204r03fs5at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
